@@ -20,8 +20,8 @@ Ensure you have the following installed:
 ### Setup
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/django-chatroom.git
-   cd django-chatroom
+   git clone https://github.com/Vedant-Raulkar/Chatroom.git
+   cd Chatroom
    ```
 
 2. **Create and activate a virtual environment** (optional but recommended)
