@@ -4,7 +4,7 @@ A chatroom web application built with Django where users can **sign up, log in, 
 
 ## FeaturesUser 
 
-- authentication (Signup, Login, Logout)
+- Authentication (Signup, Login, Logout)
 - Create new chat rooms
 - Join existing chat rooms
 - Messages are stored in the database for chat history
@@ -66,7 +66,7 @@ Ensure you have the following installed:
 - **Create a chat room** by providing a name.
 - **Update** or **delete** chat rooms if you created them.
 - **Join a chat room** by selecting an existing room.
-- Send messages and ****delete your own messages if needed.
+- **Send** messages and **delete** your own messages if needed.
 - **Update** your profile details.
 - Messages are stored in the database using the `Messages` model.
 
