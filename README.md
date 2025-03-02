@@ -76,7 +76,9 @@ Ensure you have the following installed:
 - **SQLite** - Default database (can be switched to PostgreSQL for production)
 - **HTML, CSS** - Frontend styling
 
-![home](https://github.com/user-attachments/assets/abe0ea96-da49-470b-a649-396446d04096)
-![room](https://github.com/user-attachments/assets/d55860b0-8b48-49b3-8447-6ef717b8cdea)
-![profile](https://github.com/user-attachments/assets/7e746a35-5055-4f89-9bc7-d925a5d01477)
+![home](https://github.com/user-attachments/assets/f9015328-f12b-4885-8004-d9a51cd1cba8)
+![room](https://github.com/user-attachments/assets/1c7cb604-338a-4ea6-b74b-aad267746a27)
+![rofile](https://github.com/user-attachments/assets/986cc202-e41f-4ec7-a032-058a124df603)
+
+
 
